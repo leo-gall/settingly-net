@@ -20,7 +20,7 @@
     "@headlessui/vue": "^1.7.23",
     "@jaseeey/vue-umami-plugin": "^1.3.0",
     "@sentry/vue": "^9.15.0",
-    "@tailwindcss/vite": "^4.1.4",
+    "@tailwindcss/vite": "^4.1.7",
     "@unhead/vue": "^2.0.8",
     "lucide-vue-next": "^0.503.0",
     "pinia": "^3.0.1",
